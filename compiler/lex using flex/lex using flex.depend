@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742899917 source:c:\users\hp\desktop\compiler\lex using flex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
